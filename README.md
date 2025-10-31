@@ -2,7 +2,7 @@ Olá, esse é um exercício básico para treinar meus conhecimentos em JS native
 
 O site exibe a hora atual do sistema (em tempo real) e muda o plano de fundo/imagem automaticamente com base no horário. Você pode conferir os códigos nos arquivos do projeto ou ver o projeto funcionando clicando [aqui](https://joaojoselimacerqueira.github.io/site-horas/).
 
-Como funciona: 
+COMO FIZ: 
 
 1. HTML: Local onde foi feita a organização do projeto. (1º) Título, (2º) div's e (3º) marcação pessoal.
 
@@ -20,6 +20,7 @@ tag que mostra uma imagem do dia pela manhã;
 mudança da cor de plano de fundo para uma cor que lembra a manhã;
 }
 
-4. Um pouco sobre o que aprendi neste projeto: Novas tags em JS, como, por exemplo, newDate(), padStart(), setInterval().
+O QUE APRENDI DE NOVO DURANTE O PROJETO:
+Novas tags em JS, como, por exemplo, newDate(), padStart(), setInterval().
 
 Obrigado pela visita! 🚀 Até o próximo projeto!
