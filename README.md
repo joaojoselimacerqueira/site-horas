@@ -23,4 +23,4 @@ mudança da cor de plano de fundo para uma cor que lembra a manhã;
 O QUE APRENDI DE NOVO DURANTE O PROJETO:
 Novas tags em JS, como, por exemplo, newDate(), padStart(), setInterval().
 
-Obrigado pela visita! 🚀 Até o próximo projeto!
+Obrigado pela visita e até o próximo projeto!
