@@ -1,6 +1,6 @@
 Olá, esse é um exercício básico para treinar meus conhecimentos em JS native, HTML e CSS.
 
-O site exibe a hora atual do sistema (em tempo real) e muda o plano de fundo/imagem automaticamente com base no horário. Você pode conferir os códigos nos arquivos do projeto ou ver o projeto funcionando clicando aqui.
+O site exibe a hora atual do sistema (em tempo real) e muda o plano de fundo/imagem automaticamente com base no horário. Você pode conferir os códigos nos arquivos do projeto ou ver o projeto funcionando clicando [aqui](https://joaojoselimacerqueira.github.io/site-horas/).
 
 Como funciona: 
 
